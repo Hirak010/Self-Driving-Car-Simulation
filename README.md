@@ -3,6 +3,11 @@ Self Driving Car
 
 Used Udacity's car simulator to drive a car autonomously and training the model using Nvidia's self driving car model.
 
+Udacity's car simulator link:
+'''bash
+https://github.com/udacity/self-driving-car-sim
+'''
+
 Project Organization
 ------------
 
