@@ -3,6 +3,8 @@ Self Driving Car
 
 Used Udacity's car simulator to drive a car autonomously and trained the model using Nvidia's self-driving car model. Used various data augmentation techniques to increase the size and variety of data for training the model. The model scoring metrics were pretty good with loss and val-loss being 0.0450 and 0.0334.
 
+![alt text](https://repository-images.githubusercontent.com/278710262/25d99480-c314-11ea-8e3a-de9b289ab474)
+
 # Download this Udacity's Self-Driving Car Simulator:
 
 [Repo link](https://github.com/udacity/self-driving-car-sim)
