@@ -1,7 +1,7 @@
 Self Driving Car
 ==============================
 
-Used Udacity's car simulator to drive a car autonomously and training the model using Nvidia's self driving car model.
+Used Udacity's car simulator to drive a car autonomously and trained the model using Nvidia's self-driving car model. Used various data augmentation techniques to increase the size and variety of data for training the model. The model scoring metrics were pretty good with loss and val-loss being 0.0450 and 0.0334.
 
 # Download this Udacity's Self-Driving Car Simulator:
 
@@ -16,7 +16,7 @@ Open the Udacity simulator and select Training Mode. Then click the record butto
 Clone the repository
 
 ```bash
-https://github.com/Hirak010/Self-Driving-Car-Simulation
+git clone https://github.com/Hirak010/Self-Driving-Car-Simulation
 ```
 
 ## STEP 02: 
@@ -98,3 +98,9 @@ Project Organization
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+
+# Authors:
+```bash
+Author: Hirakjyoti Medhi
+Email: hirak170802@gmail.com
+```
