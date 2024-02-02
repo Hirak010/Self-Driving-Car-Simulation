@@ -7,6 +7,9 @@ Used Udacity's car simulator to drive a car autonomously and training the model 
 
 [Repo link](https://github.com/udacity/self-driving-car-sim)
 
+# Generating Data:
+Open the Udacity simulator and select Training Mode. Then click the record button and start driving. A folder will be created with two files IMG and driving_logs.csv 
+
 # STEPS to run the project:
 
 ## STEP 01: 
@@ -21,7 +24,7 @@ Create an environment & activate
 
 
 ```bash
-conda create -n env python=3.7 -y
+conda create -n env python=3.8 -y
 ```
 
 ## STEP 03: 
@@ -38,8 +41,10 @@ Now to start the drive run the following command
 
 
 ```bash
-python drive.py
+python app.py
 ```
+
+Now, open the udacity simulator and select autonomous mode.
 
 Project Organization
 ------------
