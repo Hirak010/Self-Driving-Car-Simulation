@@ -7,6 +7,40 @@ Used Udacity's car simulator to drive a car autonomously and training the model 
 
 [Repo link](https://github.com/udacity/self-driving-car-sim)
 
+# STEPS to run the project:
+
+## STEP 01: 
+Clone the repository
+
+```bash
+https://github.com/Hirak010/Self-Driving-Car-Simulation
+```
+
+## STEP 02: 
+Create an environment & activate
+
+
+```bash
+conda create -n env python=3.7 -y
+```
+
+## STEP 03: 
+Install the requirements
+
+
+```bash
+pip install -r requirements.txt
+```
+
+
+## STEP 06: 
+Now to start the drive run the following command
+
+
+```bash
+python drive.py
+```
+
 Project Organization
 ------------
 
