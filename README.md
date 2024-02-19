@@ -7,6 +7,10 @@ Used Udacity's car simulator to drive a car autonomously and trained the model u
 
 # Download this Udacity's Self-Driving Car Simulator:
 
+[Repo link](https://www.linkedin.com/posts/hirakjyoti-815195207_deeplearning-machinelearning-ai-activity-7159154656743415809-5Nl_?utm_source=share&utm_medium=member_desktop)
+
+# Download this Udacity's Self-Driving Car Simulator:
+
 [Repo link](https://github.com/udacity/self-driving-car-sim)
 
 # Generating Data:
